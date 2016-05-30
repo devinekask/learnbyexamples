@@ -1,17 +1,14 @@
 # learnbyexamples
 
-small code snippets (with emoji's), to help students understand code
+small code examples (with emoji's), to help students understand code
 
 WIP ([PR's](https://github.com/devinehowest/learnbyexamples/pulls) welcome), [KISS](https://en.wikipedia.org/wiki/KISS_principle)
 
-## howto.
+## emoji's
 
-📌: title / example
-
-📗: method
-⏎: return value
-
-📋: log output
-
-❗️: warning
-💬: extra info
+* 📌: title
+* 📗: method
+* ⏎: return value
+* 📋: log output
+* ❗️: warning
+* 💬: extra info
