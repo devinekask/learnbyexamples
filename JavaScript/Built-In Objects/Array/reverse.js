@@ -1,7 +1,8 @@
 // 📌 Array
 // 📗 reverse
 
-// 💬 in place ❗️
+// 🔴 Mutable
+// in place ❗️
 
 let arr = [1, 2, 3, 4];
 arr.reverse();

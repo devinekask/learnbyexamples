@@ -12,3 +12,4 @@ WIP ([PR's](https://github.com/devinehowest/learnbyexamples/pulls) welcome), [KI
 * 📋: log output
 * ❗️: warning
 * 💬: extra info
+* 🔵/🔴: [Immutable / Mutable](https://www.sitepoint.com/immutability-javascript/)

@@ -1,7 +1,8 @@
 // 📌 Array
 // 📗 map
 
-// ⏎ new Array ❗️
+// 🔵 Immutable
+// ⏎ Array
 
 let arr = [1, 2, 3, 4];
 

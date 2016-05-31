@@ -6,8 +6,9 @@ let arr = ['this', 'is', 'a', 'test'];
 // 💬 in handler function:
 // 💬 1st argument = item in Array
 // 💬 2nd argument = Array index
+// 💬 3rd argument = Array
 
-arr.forEach((number, i) => {
+arr.forEach((number, i, arr) => {
   console.log(`${i}: number: ${number}`);
 });
 
