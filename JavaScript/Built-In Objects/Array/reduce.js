@@ -2,14 +2,14 @@
 // 📗 reduce
 
 // 🔵 Immutable
-// ⏎ Array
+// ⏎ Any type
 
 let arr = [1, 2, 3, 4];
 
-console.log(arr);
-// 📋 [1, 2, 3, 4]
+console.log(typeof arr, arr);
+// 📋 object [1, 2, 3, 4]
 
-arr.reduce((prev, curr) => prev + curr);
+arr = arr.reduce((prev, curr) => prev + curr);
 
-console.log(arr);
-// 📋 [10]
+console.log(typeof arr, arr);
+// 📋 number 10
