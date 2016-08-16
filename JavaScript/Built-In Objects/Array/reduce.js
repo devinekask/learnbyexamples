@@ -14,12 +14,12 @@ console.log(arr);
 // 💬 2nd argument = current value in the Array
 // 💬 3rd argument = Array
 
-arr = arr.reduce((prev, curr, arr) => prev + curr);
+let result = arr.reduce((prev, curr, arr) => prev + curr);
 
 // 💬 in loop (L -> R)
 // 💬 (1 + 2) = 3
 // 💬 (3 + 3) = 6
 // 💬 (6 + 4) = 10
 
-console.log(arr);
+console.log(result);
 // 📋 10

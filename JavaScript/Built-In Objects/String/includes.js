@@ -1,6 +1,7 @@
 // 📌 String
 // 📗 includes
 
+// 🔵 Immutable
 // ⏎ Boolean
 
 let str = 'hello world'

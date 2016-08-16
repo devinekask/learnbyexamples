@@ -1,6 +1,7 @@
 // 📌 String
 // 📗 startsWith
 
+// 🔵 Immutable
 // ⏎ Boolean
 
 let str = 'hello world'

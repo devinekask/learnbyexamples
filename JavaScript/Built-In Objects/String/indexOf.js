@@ -1,6 +1,7 @@
 // 📌 String
 // 📗 indexOf
 
+// 🔵 Immutable
 // ⏎ Integer
 
 let str = 'hello world'

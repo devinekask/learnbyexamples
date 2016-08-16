@@ -1,6 +1,7 @@
 // 📌 Array
 // 📗 join
 
+// 🔵 Immutable
 // ⏎ String
 
 let arr = ['this', 'is', 'a', 'test'];

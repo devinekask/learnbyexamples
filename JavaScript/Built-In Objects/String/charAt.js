@@ -1,6 +1,7 @@
 // 📌 String
 // 📗 concat
 
+// 🔵 Immutable
 // ⏎ String
 
 let str = 'hello';

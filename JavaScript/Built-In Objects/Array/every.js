@@ -1,6 +1,7 @@
 // 📌 Array
 // 📗 every
 
+// 🔵 Immutable
 // ⏎ Boolean
 
 let arr = [1, 2, 3, 4];
