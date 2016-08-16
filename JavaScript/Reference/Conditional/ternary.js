@@ -1,13 +1,8 @@
 // 📌 Ternary if/else clause
 
-let result;
+let bool = true;
 
-let statement;
-statement ? result = 'Yep' : result = 'Nope'
+let result = bool ? 'Yep' : 'Nope'
+
 console.log(result);
 // 📋 'Yep'
-
-statement = false;
-statement ? result = 'Yep' : result = 'Nope'
-console.log(result);
-// 📋 'Nope'
