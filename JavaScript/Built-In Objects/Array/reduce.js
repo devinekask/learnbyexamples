@@ -16,7 +16,7 @@ console.log(arr);
 
 arr = arr.reduce((prev, curr, arr) => prev + curr);
 
-// 💬 in loop
+// 💬 in loop (L -> R)
 // 💬 (1 + 2) = 3
 // 💬 (3 + 3) = 6
 // 💬 (6 + 4) = 10
