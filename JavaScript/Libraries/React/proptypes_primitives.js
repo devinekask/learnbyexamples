@@ -1,4 +1,6 @@
 // 📌 Proptypes for primitives
+// ❗ Example assumes PropTypes is a named import
+
 // 💬 Can have an extra property isRequired
 
 const Person = props => {…};
