@@ -3,7 +3,7 @@
 
 // 🔵 Immutable
 
-const StateLessComponent = props => {
+const StatelessComponent = props => {
   return(
     <section>
       <h1>Hi {props.firstName}</h1>
