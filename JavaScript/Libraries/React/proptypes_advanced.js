@@ -1,4 +1,7 @@
 // 📌 Proptypes for advanced types
+// ❗ Example assumes PropTypes is a named import
+
+// 💬 Can have an extra property isRequired
 
 const Component = props => {…};
 
